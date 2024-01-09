@@ -1,9 +1,11 @@
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/TheStreamStats.svg?style=social?style=flat-square)](http://twitter.com/TheStreamStats)
-<h3 align="left">Connect with us:</h3>
-<p align="left">
-<a href="https://twitter.com/bacon_space" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bacon_space" height="30" width="40" /></a>
-</p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheStreamStats.svg?style=social)](http://twitter.com/TheStreamStats)
+
+### Connect with us:
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bacon_space" height="20" width="20" />](https://twitter.com/bacon_space)
+
+
 | StreamStats |Description   |
 | ------------- |:-------------:|
 | [KickStats](https://rebrand.ly/KickStats)      | Stats For [Kick](https://kick.com) |
