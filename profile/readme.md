@@ -12,7 +12,6 @@
 | [KickStats](https://rebrand.ly/KickStats)      | Stats For [Kick](https://kick.com) |
 | [TwitchStats](https://rebrand.ly/TwitchStats)     |  Stats For [Twitch](http://www.twitch.tv/) |
 | [GitStats](https://rebrand.ly/GitStat)      | Stats For [Github](https://github.com)  |
-| [GitStats](https://rebrand.ly/GitStat)      | Stats For [Github](https://github.com)  |
 
  
 
