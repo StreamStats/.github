@@ -9,9 +9,9 @@
 ### Our Services We Track:
 | StreamStats |Description   |
 | ------------- |:-------------:|
-| [KickStats](https://rebrand.ly/KickStats)      | Stats For [Kick](https://kick.com) |
-| [TwitchStats](https://rebrand.ly/TwitchStats)     |  Stats For [Twitch](http://www.twitch.tv/) |
-| [GitStats](https://rebrand.ly/GitStat)      | Stats For [Github](https://github.com)  |
+| [KickStats](https://rebrand.ly/KickStats)      | Stats For [Kick](https://kick.com/Bacon_Space) |
+| [TwitchStats](https://rebrand.ly/TwitchStats)     |  Stats For [Twitch](http://www.twitch.tv/Bacon_Space) |
+| [GitStats](https://rebrand.ly/GitStat)      | Stats For [Github](https://github.com/StreamStats)  |
 
  
 
